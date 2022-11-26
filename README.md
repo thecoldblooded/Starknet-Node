@@ -2,6 +2,9 @@
 
 ## Starknet Node Kurulumu için rehber. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
 
+## For questions: [LossNode](https://t.me/LossNodeChat)
+ 
+
 ![image](https://user-images.githubusercontent.com/101462877/204107577-01b6b653-037f-43fc-877c-d8b8c2a33322.png)
 
 Tasarım: [Coingeener](https://twitter.com/coingeener)
