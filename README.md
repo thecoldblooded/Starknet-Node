@@ -9,7 +9,7 @@
 
 Tasarım: [Coingeener](https://twitter.com/coingeener)
 ## Sistem gereksinimleri:
-NODE TİPİ | CPU     | RAM      | SSD     |
+NODE TYPE | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Mainnet | 6          | 16         | 400-500  |
 
