@@ -67,3 +67,9 @@ docker run \
   -v $HOME/pathfinder:/usr/share/pathfinder/data \
   eqlabs/pathfinder
 ```
+
+# Node'umuz senkronize olmaya başladı.
+
+![image](https://user-images.githubusercontent.com/101462877/204108544-bdf4ab06-18cb-4246-bec8-2f17909d8691.png)
+
+
