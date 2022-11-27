@@ -11,7 +11,7 @@ Tasarım: [Coingeener](https://twitter.com/coingeener)
 ## Sistem gereksinimleri:
 NODE TYPE | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Mainnet | 6          | 16         | 400-500  |
+| Mainnet | 2          | 4         | 80-100  |
 
 ## Starknet Links:
 - [Website](https://starknet.io/)
