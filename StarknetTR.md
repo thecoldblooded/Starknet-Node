@@ -73,3 +73,17 @@ docker run \
 ![image](https://user-images.githubusercontent.com/101462877/204108544-bdf4ab06-18cb-4246-bec8-2f17909d8691.png)
 
 
+# Son olarak Tweet atıp Discord'a tweet linki gönderme gibi garip bi şey varmış, dilerseniz yapabilirsiniz.
+
+
+## [Alchemy](https://dashboard.alchemy.com/)'ye giderek `View Details`'e tıklıyorsunuz. 
+
+![image](https://user-images.githubusercontent.com/101462877/204154577-20645594-d703-451a-b8de-41d18fa5ea67.png)
+
+## Karşınıza çıkan sayfayı ss alıp tweet atıyorsunuz.
+
+![image](https://user-images.githubusercontent.com/101462877/204154627-e45da80b-f540-4d3d-b350-fc7971416c91.png)
+
+## Ardından [Discord](https://discord.gg/qypnmzkhbc)'a giderek tweet linkini atıyormuşsunuz.
+
+![image](https://user-images.githubusercontent.com/101462877/204154708-d7d9caf2-390e-45d8-82d9-5c93f3e2cf2f.png)
