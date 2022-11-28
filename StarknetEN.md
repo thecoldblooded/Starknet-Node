@@ -73,18 +73,3 @@ docker run \
 ![image](https://user-images.githubusercontent.com/101462877/204108544-bdf4ab06-18cb-4246-bec8-2f17909d8691.png)
 
 
-
-# Lastly, there is a something like tweeting and sending the tweet link to Discord, you can do it if you wish.
-
-
-## Go to [Alchemy](https://dashboard.alchemy.com/) and click `View Details`. 
-
-![image](https://user-images.githubusercontent.com/101462877/204154577-20645594-d703-451a-b8de-41d18fa5ea67.png)
-
-## Take screenshot and tweet it.
-
-![image](https://user-images.githubusercontent.com/101462877/204154627-e45da80b-f540-4d3d-b350-fc7971416c91.png)
-
-## Go to [Discord](https://discord.gg/qypnmzkhbc) and send your tweet link.
-
-![image](https://user-images.githubusercontent.com/101462877/204154708-d7d9caf2-390e-45d8-82d9-5c93f3e2cf2f.png)
