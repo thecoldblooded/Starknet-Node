@@ -29,5 +29,5 @@ sudo apt install screen -y
 # Github dosyalarını çekin.
 
 ```
-git clone --branch v0.4.0 https://github.com/eqlabs/pathfinder.git
+git clone --branch v0.4.1 https://github.com/eqlabs/pathfinder.git
 ```
