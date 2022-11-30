@@ -21,4 +21,4 @@ echo -e "\e[1m\e[32m3. Installing binaries.. \e[0m"
 echo "======================================================"
 sleep 1
 
-git clone --branch v0.4.0 https://github.com/eqlabs/pathfinder.git
+git clone --branch v0.4.1 https://github.com/eqlabs/pathfinder.git
